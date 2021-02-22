@@ -10,4 +10,4 @@ Video Demo:  [![<iframe width="560" height="315" src="https://www.youtube.com/em
 
 Diagram of Part 2: ![diagram](diagram.jpg)
 
-Screenshot of bin2bcd testbench: ![bin2bcd_tbScreencap](bin2bcd_tbScreencap)
+Screenshot of bin2bcd testbench: ![bin2bcd_tbScreencap](bin2bcd_tbScreencap.PNG)
