@@ -7,4 +7,4 @@ We were to design a calculator similar to that in lab 1 but it is now supposed t
 
 Diagram of Part 2: ![diagram](diagram.jpg)
 
-Screenshot of add_3 module testbench: ![add_3_tb Screencap](add_3_tb Screencap.jpg)
+Screenshot of add_3 module testbench: ![add_3_tb Screencap](add_3_tb Screencap.PNG)
